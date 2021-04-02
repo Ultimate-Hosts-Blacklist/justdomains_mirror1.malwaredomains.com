@@ -284,6 +284,7 @@
         "xy.ax"
     ],
     "az": [
+        "pp.az",
         "com.az",
         "net.az",
         "int.az",
@@ -291,7 +292,6 @@
         "org.az",
         "edu.az",
         "info.az",
-        "pp.az",
         "mil.az",
         "name.az",
         "pro.az",
