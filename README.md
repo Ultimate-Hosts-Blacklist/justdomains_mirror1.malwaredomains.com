@@ -1,7 +1,5 @@
 # About this repository
 
-### This repository is now internaly maintained by the Ultimate-Hosts-Blacklist Org.
-
 This is an input source of the Ultimate Hosts Blacklist project.
 Its objective is to test and provide a cleaned version the upstream list.
 
