@@ -1400,6 +1400,7 @@
         "us-west-1.elasticbeanstalk.com",
         "us-west-2.elasticbeanstalk.com",
         "us.com",
+        "uy.com",
         "vipsinaapp.com",
         "vs.mythic-beasts.com",
         "wafflecell.com",
@@ -2075,8 +2076,7 @@
         "muni.il",
         "net.il",
         "org.il",
-        "ravpage.co.il",
-        "uy.com"
+        "ravpage.co.il"
     ],
     "im": [
         "ac.im",
