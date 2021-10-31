@@ -994,6 +994,7 @@
         "cloudcontrolapp.com",
         "cloudcontrolled.com",
         "cn.com",
+        "cn.vu",
         "cns.joyent.com",
         "co.com",
         "codespot.com",
@@ -8473,7 +8474,6 @@
     ],
     "vu": [
         "blog.vu",
-        "cn.vu",
         "com.vu",
         "dev.vu",
         "edu.vu",
