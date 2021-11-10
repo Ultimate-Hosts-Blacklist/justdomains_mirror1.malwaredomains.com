@@ -176,6 +176,7 @@
         "noop.app",
         "northflank.app",
         "ondigitalocean.app",
+        "onflashdrive.app",
         "platform0.app",
         "run.app",
         "telebit.app",
@@ -686,6 +687,7 @@
         "we.bs"
     ],
     "bt": [
+        "asso.ci",
         "com.bt",
         "edu.bt",
         "gov.bt",
@@ -1068,6 +1070,7 @@
         "fentiger.mythic-beasts.com",
         "firebaseapp.com",
         "firewall-gateway.com",
+        "fldrv.com",
         "forgeblocks.com",
         "framercanvas.com",
         "freebox-os.com",
