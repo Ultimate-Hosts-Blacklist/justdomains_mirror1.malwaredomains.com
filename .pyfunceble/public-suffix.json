@@ -1757,6 +1757,9 @@
     "farm": [
         "storj.farm"
     ],
+    "fashion": [
+        "of.fashion"
+    ],
     "fi": [
         "aland.fi",
         "blogspot.fi",
@@ -2213,7 +2216,6 @@
         "musician.io",
         "ngrok.io",
         "nid.io",
-        "of.fashion",
         "on-k3s.io",
         "on-rio.io",
         "paas.beebyte.io",
