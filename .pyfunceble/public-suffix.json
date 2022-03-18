@@ -4834,8 +4834,7 @@
         "com.lb",
         "edu.lb",
         "gov.lb",
-        "net.lb",
-        "org.lb"
+        "net.lb"
     ],
     "lc": [
         "co.lc",
@@ -5439,6 +5438,7 @@
         "museumcenter.museum",
         "museumvereniging.museum",
         "music.museum",
+        "name.my",
         "national.museum",
         "nationalfirearms.museum",
         "nationalheritage.museum",
@@ -5695,6 +5695,7 @@
         "mil.my",
         "name.my",
         "net.my",
+        "org.lb",
         "org.my"
     ],
     "mz": [
