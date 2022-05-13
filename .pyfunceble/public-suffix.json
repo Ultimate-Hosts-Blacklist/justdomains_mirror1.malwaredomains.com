@@ -7494,6 +7494,7 @@
         "co.place"
     ],
     "pm": [
+        "name.pm",
         "own.pm"
     ],
     "pn": [
@@ -8017,6 +8018,9 @@
     ],
     "technology": [
         "co.technology"
+    ],
+    "tf": [
+        "sch.tf"
     ],
     "th": [
         "ac.th",
@@ -8656,6 +8660,10 @@
         "me.vu",
         "net.vu",
         "org.vu"
+    ],
+    "wf": [
+        "biz.wf",
+        "sch.wf"
     ],
     "win": [
         "that.win"
