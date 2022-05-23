@@ -5697,8 +5697,7 @@
         "museum.mv",
         "name.mv",
         "net.mv",
-        "org.mv",
-        "pro.mv"
+        "org.mv"
     ],
     "mw": [
         "ac.mw",
@@ -6112,7 +6111,6 @@
         "báidár.no",
         "bájddar.no",
         "bálát.no",
-        "bådåddjå.no",
         "båtsfjord.no",
         "bærum.no",
         "bø.nordland.no",
@@ -6507,6 +6505,7 @@
         "porsgrunn.no",
         "porsáŋgu.no",
         "priv.no",
+        "pro.mv",
         "rade.no",
         "radoy.no",
         "radøy.no",
