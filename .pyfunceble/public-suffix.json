@@ -2232,6 +2232,7 @@
         "definima.io",
         "devices.resinstaging.io",
         "drud.io",
+        "dyn53.io",
         "dyndns.dappnode.io",
         "editorx.io",
         "edugit.io",
@@ -4867,7 +4868,6 @@
     ],
     "land": [
         "dev.static.land",
-        "dyn53.io",
         "sites.static.land",
         "static.land"
     ],
