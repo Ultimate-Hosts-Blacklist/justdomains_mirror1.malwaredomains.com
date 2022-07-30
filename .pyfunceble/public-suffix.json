@@ -2146,6 +2146,7 @@
         "muni.il",
         "net.il",
         "org.il",
+        "ravpage.co.il",
         "tabitorder.co.il"
     ],
     "im": [
@@ -7700,7 +7701,6 @@
         "migration.run",
         "onporter.run",
         "ravendb.run",
-        "ravpage.co.il",
         "repl.run",
         "servers.run"
     ],
