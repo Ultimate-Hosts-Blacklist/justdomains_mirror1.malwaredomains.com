@@ -776,6 +776,7 @@
         "alp1.ae.flow.ch",
         "appengine.flow.ch",
         "blogspot.ch",
+        "dnsking.ch",
         "firenet.ch",
         "gotdns.ch",
         "lima-city.ch",
@@ -5800,6 +5801,7 @@
         "forgot.his.name"
     ],
     "nc": [
+        "asso.nc",
         "nom.nc"
     ],
     "net": [
@@ -8719,10 +8721,6 @@
         "net.ws",
         "org.ws"
     ],
-    "xn--p1acf": [
-        "dnsking.ch",
-        "xn--h1ahn.xn--p1acf"
-    ],
     "xyz": [
         "blogsite.xyz",
         "crafting.xyz",
@@ -8783,7 +8781,6 @@
     ],
     "zw": [
         "ac.zw",
-        "asso.nc",
         "co.zw",
         "gov.zw",
         "mil.zw",
