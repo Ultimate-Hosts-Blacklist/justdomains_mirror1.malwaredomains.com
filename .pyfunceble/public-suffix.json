@@ -1520,7 +1520,6 @@
         "writesthisblog.com",
         "x.mythic-beasts.com",
         "xen.prgmr.com",
-        "xn--90a1af.xn--p1acf",
         "xnbay.com",
         "yali.mythic-beasts.com",
         "yolasite.com",
@@ -7325,6 +7324,7 @@
         "gov.ph",
         "i.ph",
         "mil.ph",
+        "net.ph",
         "ngo.ph",
         "org.ph"
     ],
@@ -7799,7 +7799,6 @@
         "edu.sa",
         "gov.sa",
         "med.sa",
-        "net.ph",
         "net.sa",
         "org.sa",
         "pub.sa",
@@ -8839,6 +8838,7 @@
     "рус": [
         "xn--41a.xn--p1acf",
         "xn--80aaa0cvac.xn--p1acf",
+        "xn--90a1af.xn--p1acf",
         "xn--90amc.xn--p1acf",
         "xn--c1avg.xn--p1acf",
         "xn--h1ahn.xn--p1acf",
@@ -8854,6 +8854,7 @@
         "орг.рус",
         "самара.рус",
         "сочи.рус",
+        "спб.рус",
         "я.рус"
     ],
     "срб": [
